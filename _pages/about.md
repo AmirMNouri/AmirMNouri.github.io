@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Heart Image](/images/heart.png){: .align-right;width: 150px; height: 150px}  
+![Heart Image](/images/mstile-144x144.png){: .align-right;width: 150px; height: 150px}  
 👨‍💻 As a passionate programmer specializing in medical image analysis, I focus on advancing technology in echocardiography and ultrasound imaging.
 
 
