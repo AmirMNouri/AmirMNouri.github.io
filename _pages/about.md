@@ -18,6 +18,7 @@ What Will Echocardiography Be Like with AI-Assistant Software?
 ======
 As AI technology continues to evolve, its integration into medical imaging, particularly echocardiography, will significantly change how the field operates. Here are some key aspects of how AI-assisted software will transform echocardiography:
 
+![real-time](/images/mstile-150x150.png){: .align-right style="width: 300px; height: 300px;"}
 ***Real-time AI Assistance***
 
 In the future, AI algorithms will work in real-time, assisting clinicians during echocardiographic procedures.
