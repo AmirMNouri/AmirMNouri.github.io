@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "Exploring the Future of Echo, Ultrasound with AI"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![awda](/images/heart.png){: .align-right}👨‍💻As a passionate programmer specializing in medical image analysis, I focus on advancing technology in echocardiography and ultrasound imaging.
-
+![Heart Image](/images/heart.png){: .align-right;width: 150px; height: 150px}  
+👨‍💻 As a passionate programmer specializing in medical image analysis, I focus on advancing technology in echocardiography and ultrasound imaging.
 
 
 What Will Echocardiography Be Like with AI-Assistant Software?
