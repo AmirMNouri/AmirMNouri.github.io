@@ -32,7 +32,7 @@ AI will also play a key role in improving the quality of images captured during 
 *  **Noise Reduction and Image Enhancement** AI algorithms will improve image resolution and reduce noise in low-quality scans. For example, AI can enhance *2D echocardiography* images, making it easier to       view subtle anatomical structures that may have been previously difficult to identify.
 *  **Automated Image Optimization:** AI will help in adjusting image settings for optimal clarity, which is crucial for accurate diagnosis.
 
-
+![collaborative](/images/mstile-310x150.png){: .align-right style="width: 300px; height: 300px;"}
 ***Collaboration with Cardiologists***
 
 AI will act as a powerful collaborative tool for cardiologists and other healthcare professionals, aiding them in making better-informed decisions.
