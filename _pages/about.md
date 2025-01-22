@@ -8,6 +8,7 @@ redirect_from:
 ---
 ![Heart Image](/images/mstile-144x144.png){: .align-right style="width: 300px; height: 300px;"}  
 👨‍💻 As a passionate programmer specializing in medical image analysis, I focus on advancing technology in echocardiography and ultrasound imaging.
+
 🎯 My goal is to combine healthcare and artificial intelligence to create tools that help clinicians work more efficiently and improve care for patients.
 
 On this website, I’ll take you through the exciting present and future of echocardiography, exploring how AI is transforming this field and what lies ahead. Whether you're a healthcare professional, a tech enthusiast, or just curious about this intersection of medicine and technology, there’s something here for you!
