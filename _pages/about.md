@@ -44,7 +44,7 @@ AI in Action: Transforming Echocardiography
 ======
 Recent advancements in artificial intelligence are driving remarkable progress in echocardiography. AI-powered tools are now tackling some of the most challenging aspects of echo imaging, making diagnosis faster, more accurate, and more efficient. Here’s a glimpse into some groundbreaking AI projects reshaping the field:
 
-![segmentation](/images/mstile-310x310.png){: .align-right style="width: 500px; height: 500px;"}
+![segmentation](/images/mstile-310x310.png){: .align-right style="width: 300px; height: 300px;"}
 ***Segmentation in Echocardiography***
 
 AI is revolutionizing the way we segment cardiac structures in echo images.
@@ -52,7 +52,7 @@ AI is revolutionizing the way we segment cardiac structures in echo images.
 *  **AI’s Role** Deep learning algorithms, particularly convolutional neural networks (CNNs), have been trained to accurately and automatically identify these regions. This reduces the       manual workload                    and improves precision.
 *  **Why It Matters** Accurate segmentation is crucial for analyzing cardiac function and making key measurements. AI ensures consistency and helps avoid human errors.
 
-![segmentation](/images/mstile-70x70.png){: .align-right style="width: 500px; height: 500px;"}
+![segmentation](/images/mstile-70x70.png){: .align-right style="width: 300px; height: 300px;"}
 ***Strain Measurement in Echocardiography***
 
 Strain imaging is a powerful tool for assessing heart muscle function, and AI is making it more accessible and reliable.
