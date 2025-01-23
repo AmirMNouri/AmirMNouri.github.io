@@ -8,7 +8,7 @@ date: 2024-02-29
 venue: 'IEEE Xplore'
 slidesurl: 'https://ieeexplore.ieee.org/abstract/document/10496632'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10496632'
-abstract: 'Gozar Ali Hazareh; Kasra Azizi; Alireza Mazloumi Soveini; AmirMohammad Nouri; Mohammad Norouzi'
+citation: 'Gozar Ali Hazareh; Kasra Azizi; Alireza Mazloumi Soveini; AmirMohammad Nouri; Mohammad Norouzi'
 ---
 
 ![robot](/images/image-alignment-1200x4002.png){: .align-buttom style="width: 300px; height: 300px;"}
