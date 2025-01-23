@@ -3,7 +3,7 @@ title: "A vision-based approach for quadrotor line following with sliding mode c
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-29-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2024-02-29
 venue: 'IEEE Xplore'
 slidesurl: 'https://ieeexplore.ieee.org/abstract/document/10496632'
